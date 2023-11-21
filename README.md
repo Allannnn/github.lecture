@@ -1,3 +1,4 @@
 # gsthub.lecture
 
-readme �Դϴ�.
+readme 테스트
+
