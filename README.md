@@ -1,5 +1,3 @@
 # gsthub.lecture
 
-readme 테스트
-
-
+readme 슈퍼테스트
