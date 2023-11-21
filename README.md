@@ -1,4 +1,5 @@
 # gsthub.lecture
 
-readme 테스트
+readme �׽�Ʈ
+
 
