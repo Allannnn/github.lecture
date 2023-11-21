@@ -1,3 +1,3 @@
 # gsthub.lecture
 
-readme 테스트 입니다.
+행복했던 날들 이었다.
