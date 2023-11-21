@@ -1,3 +1,3 @@
 # gsthub.lecture
 
-readme ½´ÆÛÅ×½ºÆ®
+readme í…ŒìŠ¤íŠ¸ ì…ë‹ˆë‹¤.
